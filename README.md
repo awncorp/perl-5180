@@ -9,5 +9,5 @@ Perl 5.18.0 (via Perlbrew)
 
 # SEE ALSO
 
-- (cpanfile)[cpanfile]
-- (dockerfile)[Dockerfile]
+- [cpanfile](cpanfile)
+- [dockerfile](Dockerfile)
